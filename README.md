@@ -1,6 +1,6 @@
 # Olaf the Boozer (Godot)
 
-GitHub Game Off 2022 submission
+GitHub Game Off 2024 submission
 
 ## Assets:
 [https://lyaseek.itch.io/minifdwarfs](https://lyaseek.itch.io/minifdwarfs)
